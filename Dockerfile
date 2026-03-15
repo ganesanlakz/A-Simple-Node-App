@@ -12,3 +12,4 @@ EXPOSE 3002
 # Start the app
 CMD [ "node", "app.js" ]
 
+
